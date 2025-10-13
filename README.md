@@ -12,9 +12,13 @@ This project analyzes the historical stock price data of five leading technology
 
 The dataset contains daily stock market data for five major technology companies — Amazon , Apple, Facebook, Google, and Netflix — including:
 •	Date Information: The trading date for each record.
+
 •	Price Details: Open, High, Low, Close, and Adjusted Close prices for each company on each trading day.
+
 •	Trading Volume: Total number of shares traded during the day for each stock.
+
 •	Stock Identifier: Ticker symbol or company name to distinguish between the different companies.
+
 This dataset provides a comprehensive view of stock performance for these tech giants, enabling detailed analysis of price trends, returns, volatility, and comparative performance over time using Excel.
 
 **Business Objectives**
@@ -40,10 +44,15 @@ Below are some sample questions addressed in this analysis:
 **Stock Price Performance**
 
 •	Which of the five companies — Amazon, Apple, Facebook, Google, and Netflix — have shown the highest and lowest closing prices over the selected period?
+
 •	What are the overall daily, monthly, and yearly price trends for each stock?
+
 •	How have trading volumes fluctuated in relation to price changes for these companies?
+
 •	During which periods did these stocks experience the strongest price growth or the sharpest declines?
+
 •	How do short-term and long-term moving averages indicate bullish or bearish trends for each stock?
+
 
 **Stock Analysis**
 
@@ -56,10 +65,15 @@ Below are some sample questions addressed in this analysis:
 **Market Insights**
 
 •	Within the technology sector, which of the five companies — Amazon, Apple, Facebook, Google, and Netflix — show the strongest overall stock performance?
+
 •	How do these companies compare in terms of returns and volatility within the technology sector?
+
 •	Which of these stocks attract the highest trading volumes, indicating strong investor interest?
+
 •	How is stock performance for these companies distributed across domestic and international markets?
+
 •	Which companies are the top performers driving the highest returns for investors over the analysis period?
+
 
 **Trading & Market Operations**
 
